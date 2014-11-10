@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDiscrete", "NDiscrete\NDiscrete.csproj", "{BB97C489-0162-4EB8-A555-3427FE802DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDiscrete.Tests", "NDiscrete.Tests\NDiscrete.Tests.csproj", "{C3AC278E-001C-4A09-88C9-E45B7D72D013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB97C489-0162-4EB8-A555-3427FE802DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB97C489-0162-4EB8-A555-3427FE802DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB97C489-0162-4EB8-A555-3427FE802DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB97C489-0162-4EB8-A555-3427FE802DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AC278E-001C-4A09-88C9-E45B7D72D013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AC278E-001C-4A09-88C9-E45B7D72D013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AC278E-001C-4A09-88C9-E45B7D72D013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AC278E-001C-4A09-88C9-E45B7D72D013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
